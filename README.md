@@ -56,4 +56,5 @@ df=pd.read_csv("diabetes.csv")
 ![OUTPUT](skew.png)
 ![OUTPUT](skewhist.png)
 ![OUTPUT](skewdist.png)
-
+# RESULT
+Thus the given data is read and performed univariate analysis with different types of plot.
